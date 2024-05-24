@@ -1,0 +1,33 @@
+#name {
+    font-weight: 800;
+}
+
+#location {
+    color: aliceblue;
+    font-weight: 500;
+}
+
+#date {
+    color: aliceblue;
+    font-weight: 500;
+}
+
+#about {
+    color: aliceblue;
+    font-weight: 500;
+    font-style: normal;
+    font-size: x-large;
+}
+
+#info {
+    color: aliceblue;
+}
+
+#button {
+    color: #5c04ea;
+    font-weight: 200;
+    background-color:#ebdefa;
+    padding:10px;
+    border-radius:10px;
+
+}
